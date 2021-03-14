@@ -15,5 +15,5 @@ GPU     | Adreno 630
 Memory  | 8 GB RAM
 Shipped Android Version | 8.0
 Storage | 64 GB
-Battery | Non-removable Li-Ion 3400 mAh battery
+Battery | Non-removable Li-Ion 4000 mAh battery
 Display | 2560x1440 pixels, 16:9 ratio
