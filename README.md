@@ -1,5 +1,3 @@
-Copyright (C) 2018 The LineageOS Project
-
 Device configuration for Razer phone 2
 =========================================
 
